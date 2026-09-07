@@ -5,7 +5,7 @@ import ReactDiffViewer from 'react-diff-viewer-continued';
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://localhost:8000/api',
+  baseURL: 'https://ai-code-debugger-gray.vercel.app/api',
 });
 
 function App() {
