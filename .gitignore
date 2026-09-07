@@ -1,8 +1,7 @@
 # Python Backend
 backend/venv/
-backend/__pycache__/
-backend/.ruff_cache/
-backend/*.pyc
+__pycache__/
+*.pyc
 backend/.env
 
 # Node Frontend
